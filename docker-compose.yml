@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  jupyter-spark:
+    image: jupyter/pyspark-notebook:spark-3.5.0
+    container_name: eshop-spark-local
+    user: root
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+      - JUPYTER_TOKEN=eshop
+      - GRANT_SUDO=yes
+      - CHOWN_HOME=yes
+      - CHOWN_HOME_OPTS=-R
+    ports:
+      - "8888:8888" # JupyterLab UI
+      - "4040:4040" # Spark Driver UI (Monitoring des Jobs)
+    volumes:
+      - .:/home/jovyan/work
+    working_dir: /home/jovyan/work

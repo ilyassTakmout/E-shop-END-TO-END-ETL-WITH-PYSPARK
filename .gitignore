@@ -1,0 +1,33 @@
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+.venv
+env/
+venv/
+ENV/
+
+# Spark / Hadoop / Lakehouse temporary files
+*.crc
+.spark-staging-*
+_temporary/
+metastore_db/
+derby.log
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Docker
+.docker/
