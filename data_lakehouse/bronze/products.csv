@@ -1,0 +1,15 @@
+product_id;product_name;category;unit_price;unit_cost
+P001;Laptop;Informatique;800.00;600.00
+P002;Mouse;Accessoires;20.00;8.00
+P003;Screen;Informatique;200.00;140.00
+P004;Keyboard;Accessoires;45.00;25.00
+P005;Tablet;Informatique;320.00;230.00
+P006;Headphones;Audio;75.00;40.00
+P007;Webcam;Accessoires;55.00;30.00
+P008;Printer;Bureau;180.00;125.00
+P009;SSD 1TB;Stockage;95.00;58.00
+P010;Router;Réseau;110.00;70.00
+P011;Microphone;Audio;65.00;35.00
+P012;USB Hub;Accessoires;25.00;11.00
+P003;Screen;Informatique;200.00;140.00
+P013;Broken Cost Item;Divers;30.00;-4.00

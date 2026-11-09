@@ -1,0 +1,6 @@
+{"promotion_code":"PROMO5","discount_rate":0.05,"start_date":"2025-01-01","end_date":"2025-12-31"}
+{"promotion_code":"PROMO10","discount_rate":0.1,"start_date":"2025-05-01","end_date":"2025-05-31"}
+{"promotion_code":"SUMMER15","discount_rate":0.15,"start_date":"2025-06-01","end_date":"2025-08-31"}
+{"promotion_code":"VIP20","discount_rate":0.2,"start_date":"2025-01-01","end_date":"2025-12-31"}
+{"promotion_code":"OLD30","discount_rate":0.3,"start_date":"2024-01-01","end_date":"2024-12-31"}
+{"promotion_code":"BAD_JSON","discount_rate":0.10,"start_date":"2025-06-01","end_date":

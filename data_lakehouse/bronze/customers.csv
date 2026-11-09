@@ -1,0 +1,33 @@
+customer_id;customer_name;region;registration_date
+C001;Alice 01;Nord;2024-01-08
+C002;Youssef 02;Sud;2024-01-15
+C003;Sara 03;Centre;2024-01-22
+C004;Omar 04;Est;2024-01-29
+C005;Nadia 05;Ouest;2024-02-05
+C006;Amine 06;Nord;2024-02-12
+C007;Alice 07;Sud;2024-02-19
+C008;Youssef 08;Centre;2024-02-26
+C009;Sara 09;Est;2024-03-04
+C010;Omar 10;Ouest;2024-03-11
+C011;Nadia 11;Nord;2024-03-18
+C012;Amine 12;Sud;2024-03-25
+C013;Alice 13;Centre;2024-04-01
+C014;Youssef 14;Est;2024-04-08
+C015;Sara 15;Ouest;2024-04-15
+C016;Omar 16;Nord;2024-04-22
+C017;Nadia 17;Sud;2024-04-29
+C018;Amine 18;Centre;2024-05-06
+C019;Alice 19;Est;2024-05-13
+C020;Youssef 20;Ouest;2024-05-20
+C021;Sara 21;Nord;2024-05-27
+C022;Omar 22;Sud;2024-06-03
+C023;Nadia 23;Centre;2024-06-10
+C024;Amine 24;Est;2024-06-17
+C025;Alice 25;Ouest;2024-06-24
+C026;Youssef 26;Nord;2024-07-01
+C027;Sara 27;Sud;2024-07-08
+C028;Omar 28;Centre;2024-07-15
+C029;Nadia 29;Est;2024-07-22
+C030;Amine 30;Ouest;2024-07-29
+C005;Nadia 05;Ouest;2024-02-05
+C031;;Nord;2025-02-30

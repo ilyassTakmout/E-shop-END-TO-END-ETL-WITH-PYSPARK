@@ -1,0 +1,42 @@
+[
+    {
+        "run_id": "run_20261109_155128",
+        "timestamp": "2026-11-09T15:51:28.429286",
+        "source_name": "customers",
+        "chemin_de_stockage": "/home/jovyan/work/data_lakehouse/bronze/customers_raw.parquet",
+        "lignes_ingerees": 32,
+        "status": "succes"
+    },
+    {
+        "run_id": "run_20261109_155128",
+        "timestamp": "2026-11-09T15:51:28.429286",
+        "source_name": "products",
+        "chemin_de_stockage": "/home/jovyan/work/data_lakehouse/bronze/products_raw.parquet",
+        "lignes_ingerees": 14,
+        "status": "succes"
+    },
+    {
+        "run_id": "run_20261109_155128",
+        "timestamp": "2026-11-09T15:51:28.429286",
+        "source_name": "orders",
+        "chemin_de_stockage": "/home/jovyan/work/data_lakehouse/bronze/orders_raw.parquet",
+        "lignes_ingerees": 44,
+        "status": "succes"
+    },
+    {
+        "run_id": "run_20261109_155128",
+        "timestamp": "2026-11-09T15:51:28.429286",
+        "source_name": "order_items",
+        "chemin_de_stockage": "/home/jovyan/work/data_lakehouse/bronze/order_items_raw.parquet",
+        "lignes_ingerees": 86,
+        "status": "succes"
+    },
+    {
+        "run_id": "run_20261109_155128",
+        "timestamp": "2026-11-09T15:51:28.429286",
+        "source_name": "promotions",
+        "chemin_de_stockage": "/home/jovyan/work/data_lakehouse/bronze/promotions_raw.parquet",
+        "lignes_ingerees": 6,
+        "status": "succes"
+    }
+]
